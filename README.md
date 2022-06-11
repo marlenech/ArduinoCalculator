@@ -1,5 +1,5 @@
 # ArduinoCalculator
-Jeu réalisé avec un arduino pour réviser les tables d'addition, multiplication de niveau CE1
+Jeu de calcul mental réalisé avec un arduino de niveau CE1
 
 1ère étape
 => Addition posée à deux nombres, avec nombres choisis aléatoirement de 0 à 20
